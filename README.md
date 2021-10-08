@@ -15,7 +15,7 @@ Algorithm: -
       viii.Rearrange the Data [dependent ——— independent]
       ix.  Dummy Categorical [relax 1st variable]
 
-3. Linear Regression Model:-
+3. Parallel Linear Regression Model:-
       i.   Declare Targets and Inputs
       ii.  Standardize Inputs
       iii. Train_Test_Spilt
