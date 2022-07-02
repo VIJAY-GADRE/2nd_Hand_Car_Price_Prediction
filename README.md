@@ -31,3 +31,6 @@
 -   iii. Plot and Compare targets and its prediction IP [y_hat <- prediction]
 -   iv.  Plot and Compare using Residual [y_test - y_hat]
 -   v.   Prediction’s Dataset Performance
+
+
+#### Note:- All models have been trained and tested on Mac M1
